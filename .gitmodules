@@ -1,0 +1,4 @@
+[submodule "private"]
+	path = private
+	url = https://github.com/vava24680/Private_test.git
+	branch = master
